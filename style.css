@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+b{
+    color: blanchedalmond;
+}
+p{
+    color: rgb(10, 138, 243);
+}
+h3{
+    color: cadetblue;
+}
+label{
+    color: cadetblue;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera{
+  
+    border:7px dashed white;
+    
+    width: 350px;
+    height: 300px;
+}
+span{
+    color: white;
+}
